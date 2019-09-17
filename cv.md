@@ -1,6 +1,6 @@
 # Resume
 
-![alt text](https://github.com/jack-champagne/jackchampagne.com/cv-picture.jpg "Jack Champagne")
+<img src="https://raw.githubusercontent.com/jack-champagne/jackchampagne.com/master/cv-picture.jpg" alt="Me!" scale="0">
 
 I am an enjoyer of all things learning and engineering. I love to build, design, create, and understand. Anything that I can do to help the world around me enjoy these things more is something that I take as a passion and truly enjoy!
 
