@@ -6,8 +6,8 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 
 ## Employment History
 
-#### 10/2018 - Present:      Programmer and Software Engineer at AirCycler©
-* Expirienced with data aquisition systems and high bandwidth signal processing interfaces
+#### 10/2018 - Present      Programmer and Software Engineer at AirCycler©
+* Experienced with data aquisition systems and high bandwidth signal processing interfaces
 * Lead development on ventilation system simulation software with modular and advanced testing of new products
 * Reverse engineered former product's algorithms for predictive simulation and analysis
 * Assisted with the creation and maintenance of an isolated and robust product fixture for continuous testing
@@ -15,20 +15,24 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 * Management and remote debugging of linux/RFID systems
 * Proficient in circut analysis and reading schematics
 
-#### 03/2017 - :      Dishwasher at the Milepost Restaurant
+#### 03/2017 - Present      Dishwasher at the Milepost Restaurant
 
-* Wash dining room dishes and silverware
-* Wash kitchen dishes, pots, pans, cutlery, and cookware
-* Clean kitchen prep area and salad station
+* Washed dining room dishes and silverware
+* Washed kitchen dishes, pots, pans, cutlery, and cookware
+* Cleaned kitchen prep area and salad station
 
 ## Education
-#### University of Massachusetts-Amherst:    Math or Computer Science Major
-#### Duxbury High School
+#### University of Massachusetts-Amherst: Class of 2019
+* Math or Computer Science Major
+#### Duxbury High School: Class of 2019
 
 ## Activities
 * FIRST Robotics: Team 4908 (2014 - 2019)
   * Lead programmer, electrician, and robot driver
   * CNC operator and parts manufacturing assistant
-* Duxbury Crew Team (2015-2016)
-* Duxbury Ski Team (2014-2015, 2016-2017)
-* Eagle Scout (2011 - 2019)
+* Boy Scouts of America (2011 - 2019)
+  * Eagle Scout (2019)
+* National Honors Society (2018 - 2019)
+* Duxbury Crew Team (2015 - 2016)
+* Duxbury Ski Team (2014 - 2015, 2016 - 2017)
+* Franconia Ski Club (2012 - 2018)
