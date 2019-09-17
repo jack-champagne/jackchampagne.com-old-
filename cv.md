@@ -7,13 +7,13 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 ## Employment History
 
 #### 10/2018 - Present: AirCycler© - Programmer and Software Engineer
-* Experienced with data aquisition systems and high bandwidth signal processing interfaces
+* Experienced with data acquisition systems and high bandwidth signal processing interfaces
 * Lead development on ventilation system simulation software with modular and advanced testing of new products
 * Reverse engineered former product's algorithms for predictive simulation and analysis
 * Assisted with the creation and maintenance of an isolated and robust product fixture for continuous testing
 * Overhauled a beach access tracking system for Duxbury Beach Reservation.
 * Management and remote debugging of linux/RFID systems
-* Proficient in circut analysis and reading schematics
+* Proficient in circuit analysis and reading schematics
 
 #### 03/2017 - Present: Milepost Restaurant - Dishwasher
 * Washed dining room dishes and silverware
