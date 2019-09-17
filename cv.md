@@ -23,8 +23,7 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 
 ## Education
 #### University of Massachusetts-Amherst: Class of 2019
-* Math or Computer Science Major
-
+Math or Computer Science Major
 #### Duxbury High School: Class of 2019
 
 ## Activities
