@@ -6,7 +6,7 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 
 ## Employment History
 
-#### 10/2018 - Present      Programmer and Software Engineer at AirCycler©
+#### 10/2018 - Present:      Programmer and Software Engineer at AirCycler©
 * Expirienced with data aquisition systems and high bandwidth signal processing interfaces
 * Lead development on ventilation system simulation software with modular and advanced testing of new products
 * Reverse engineered former product's algorithms for predictive simulation and analysis
@@ -15,14 +15,14 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 * Management and remote debugging of linux/RFID systems
 * Proficient in circut analysis and reading schematics
 
-#### 03/2017 - Present      Dishwasher at the Milepost Restaurant
+#### 03/2017 - :      Dishwasher at the Milepost Restaurant
 
 * Wash dining room dishes and silverware
 * Wash kitchen dishes, pots, pans, cutlery, and cookware
 * Clean kitchen prep area and salad station
 
 ## Education
-#### University of Massachusetts-Amherst    Math or Computer Science Major
+#### University of Massachusetts-Amherst:    Math or Computer Science Major
 #### Duxbury High School
 
 ## Activities
