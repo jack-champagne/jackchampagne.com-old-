@@ -28,6 +28,7 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 ## Activities
 * FIRST Robotics: Team 4908 (2014 - 2019)
   * Lead programmer, electrician, and robot driver
+  * CNC operator and parts manufacturing assistant
 * Duxbury Crew Team (2015-2016)
 * Duxbury Ski Team (2014-2015, 2016-2017)
 * Eagle Scout (2011 - 2019)
