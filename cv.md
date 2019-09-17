@@ -22,7 +22,7 @@ I am an enjoyer of all things learning and engineering. I love to build, design,
 * Cleaned kitchen prep area and salad station
 
 ## Education
-#### University of Massachusetts-Amherst: Class of 2019
+#### University of Massachusetts-Amherst: Class of 2023
 Math or Computer Science Major
 #### Duxbury High School: Class of 2019
 
