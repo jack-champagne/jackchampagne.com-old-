@@ -1,24 +1,32 @@
+---
+title: Resume
+permalink: /cv/
+github:
+  is_project_page: false
+---
+
 # Resume
 
-<img src="https://raw.githubusercontent.com/jack-champagne/jackchampagne.com/master/cv-picture.jpg" alt="Me!" scale="0">
+<img src="https://raw.githubusercontent.com/jack-champagne/jackchampagne.com/master/cv-picture.jpg" alt="Me!" scale="0.25">
 
-I am an enjoyer of all things learning and engineering. I love to build, design, create, and understand. Anything that I can do to help the world around me enjoy these things more is something that I take as a passion and truly enjoy!
+I enjoy all things that require learning and engineering. I love to build, design, create, and understand. Anything I can do to help the world around me enjoy these things more is something that I take as a passion and truly enjoy!
 
 ## Employment History
 
 #### 10/2018 - Present: AirCycler© - Programmer and Software Engineer
-* Experienced with data acquisition systems and high bandwidth signal processing interfaces
-* Lead development on ventilation system simulation software with modular and advanced testing of new products
-* Reverse engineered former product's algorithms for predictive simulation and analysis
-* Assisted with the creation and maintenance of an isolated and robust product fixture for continuous testing
-* Overhauled a beach access tracking system for Duxbury Beach Reservation.
-* Management and remote debugging of linux/RFID systems
-* Proficient in circuit analysis and reading schematics
+* Experienced with data acquisition systems and high bandwidth signal processing interfaces.
+* Lead development on ventilation system simulation software with modular and advanced testing of new products.
+* Reverse engineered former product's algorithms for predictive simulation and analysis.
+* Assisted with the creation and maintenance of an isolated and robust fixture for continuous testing of products.
+* Overhauled the beach access tracking system for Duxbury Beach Reservation.
+* Management and remote debugging of linux/RFID systems.
+* Proficient in circuit analysis and reading schematics.
 
 #### 03/2017 - Present: Milepost Restaurant - Dishwasher
-* Washed dining room dishes and silverware
+* Washed dining room dishes, glassware, and silverware
 * Washed kitchen dishes, pots, pans, cutlery, and cookware
 * Cleaned kitchen prep area and salad station
+* Closed kitchen and cleaned appliances
 
 ## Education
 #### University of Massachusetts-Amherst: Class of 2023
