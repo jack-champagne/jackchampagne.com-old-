@@ -1,8 +1,6 @@
 ---
 title: Resume
 permalink: /cv/
-github:
-  is_project_page: false
 ---
 
 # Resume
