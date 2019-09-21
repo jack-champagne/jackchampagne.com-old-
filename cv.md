@@ -5,7 +5,7 @@ permalink: /cv/
 
 # Resume
 
-<img src="https://raw.githubusercontent.com/jack-champagne/jackchampagne.com/master/cv-picture.jpg" alt="Me!" height=50% width=50%>
+<img src="https://raw.githubusercontent.com/jack-champagne/jackchampagne.com/master/cv-picture.jpg" alt="Me!" height=50 width=50>
 
 I enjoy all things that require learning and engineering. I love to build, design, create, and understand. Anything I can do to help the world around me enjoy these things more is something that I take as a passion and truly enjoy!
 
