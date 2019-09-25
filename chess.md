@@ -4,9 +4,8 @@ permalink: /chess/
 ---
 
 # Chess
-* Written by Taisuke Miyamoto
+* Written by Taisuke Miyamoto using p5.js
 
-<iframe src="/chess.html" width="420px" height="420px">
+<iframe src="/chess.html" width="100%" height="100%">
 </iframe>
 
-* Thank you!
