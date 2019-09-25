@@ -1,11 +1,3 @@
----
-title: Chess
-permalink: /chess/
----
-
-# Chess
-* Written by Taisuke Miyamoto
-
 <html>
   <head>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
