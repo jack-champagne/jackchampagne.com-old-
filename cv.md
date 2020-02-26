@@ -11,6 +11,12 @@ I enjoy all things that require learning and engineering. I love to build, desig
 
 ## Employment History
 
+#### 10/2019 - Present: UMass Amherst All-Campus Makerspace - Makerspace Staff
+* Employs knowlege of shop protocols and organization to create a safe shop environment
+* Assists students with electrical and computer engineering projects
+* Lead operator and teacher of the 2 3D printers and the software required
+* Assisted and designed the internal networking and future server setup for the makerspace
+
 #### 10/2018 - Present: AirCycler© - Programmer and Software Engineer
 * Experienced with data acquisition systems and high bandwidth signal processing interfaces.
 * Lead development on ventilation system simulation software with modular and advanced testing of new products.
@@ -20,7 +26,7 @@ I enjoy all things that require learning and engineering. I love to build, desig
 * Management and remote debugging of linux/RFID systems.
 * Proficient in circuit analysis and reading schematics.
 
-#### 03/2017 - Present: Milepost Restaurant - Dishwasher
+#### 03/2017 - 4/2019: Milepost Restaurant - Dishwasher
 * Washed dining room dishes, glassware, and silverware
 * Washed kitchen dishes, pots, pans, cutlery, and cookware
 * Cleaned kitchen prep area and salad station
